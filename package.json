@@ -1,0 +1,23 @@
+{
+  "name": "tic_tac_toe",
+  "version": "1.0.0",
+  "description": "game tic-tac-toe",
+  "main": "tictac.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnatoliyMykhalchenko/tic-tac-toe.git"
+  },
+  "author": "Anatoliy Mykhalchenko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AnatoliyMykhalchenko/tic-tac-toe/issues"
+  },
+  "homepage": "https://github.com/AnatoliyMykhalchenko/tic-tac-toe#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-sass": "^4.0.2"
+  }
+}
